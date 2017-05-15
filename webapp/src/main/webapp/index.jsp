@@ -1,1 +1,1 @@
-Hello, World! from cmc and me
+Hello, World! from cmc
